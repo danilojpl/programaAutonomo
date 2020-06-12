@@ -1,0 +1,150 @@
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danilo.djpeixoto\Desktop\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\Users\Nilo\Desktop\pi3\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Vinicius\Desktop\teste PI\programaAutonomo-master\Autonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\REPPI3\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\repPi-Autonomo\programaAutonomo\Pi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nilo\Desktop\pi3\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danil\Desktop\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danil\Desktop\senac\Pi3Bot\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danil\Desktop\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\AzulServer.dll
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\AzulServer.xml
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl2.resources
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl3.resources
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Faculdade\testestes\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\AzulServer.dll
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\bin\Debug\AzulServer.xml
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl2.resources
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl3.resources
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danil\Desktop\visualv\WindowsFormsApp1-Copia stretch\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
